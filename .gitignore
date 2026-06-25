@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Experiment tracking / logs
+wandb/
+
+# Local scratch / personal files
+tmp.txt
+SIDA.txt
+*.log
+
+# Datasets & checkpoints
+datasets/data/
+adapted/
+*.pth
+*.tar
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
