@@ -103,7 +103,6 @@ python3 main.py \
   --SIDA \
   --domain_mix \
   --ACDC_sub night \
-  --sub_domain night \
   --ckpts_path adapted 
 ```
 
